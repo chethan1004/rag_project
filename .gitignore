@@ -1,0 +1,5 @@
+# Ignore .env file
+.env
+myenv/
+finetunung.txt
+__pycache__/
